@@ -1,22 +1,13 @@
 {
   "users": [
     {
-      "firstName": "haritha",
-      "lastName": "boppanaa",
-      "email": "paymenttest67@gmail.com",
-      "phone": "1234567890",
-      "dob": "2008-06-11",
-      "address": "North Andavoorani, Andavoorani,, Thiruvadanai.",
-      "id": 2
-    },
-    {
-      "firstName": "Hari",
-      "lastName": "Deepthi",
-      "email": "checkanti@gmail.com",
-      "phone": "1234567866",
-      "dob": "1999-02-18",
-      "address": "test",
-      "id": 3
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "phone": "9876543210",
+      "dob": "1995-05-15",
+      "address": "123 Tech Street, Silicon Valley"
     }
   ]
 }
